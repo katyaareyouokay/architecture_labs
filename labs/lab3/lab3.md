@@ -8,7 +8,7 @@
 ![alt text](images/image3.png)
 
 3. Создание обменника
-![alt text](image4.png)
+![alt text](images/image4.png)
 
 4. Связь между обменником и очередью
 ![alt text](images/image5.png)
