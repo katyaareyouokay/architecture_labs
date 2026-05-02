@@ -2,7 +2,7 @@
 1) Cоздание и чтение простой пары ключ-значение
 ![img_1.png](images/img_1.png)
 
-2) Создание HASH
+2) Создание HASH, LIST, SET, ZSET
 ![alt text](images/img_2.png)
 ![alt text](images/img_3.png)
 ![alt text](images/img_4.png)
